@@ -10,4 +10,11 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Queries\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+
 </Project>
