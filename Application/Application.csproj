@@ -12,9 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Commands\" />
-    <Folder Include="DTO\" />
     <Folder Include="Handlers\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="Queries\" />
     <Folder Include="Validators\" />
   </ItemGroup>

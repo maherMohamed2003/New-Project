@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace WebApplication1.Application.Common.Extensions;
+namespace Applicationons;
 
 public static class MappingExtensions
 {

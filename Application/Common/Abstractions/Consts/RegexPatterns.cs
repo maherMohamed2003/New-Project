@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Application.Common.Abstractions.Consts;
+﻿namespace Applicationtions.Consts;
 
 public static class RegexPatterns
 {

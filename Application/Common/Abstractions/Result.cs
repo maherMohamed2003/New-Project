@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Application.Common.Abstractions
+﻿namespace Application.Common.Abstractions
 {
     public class Result<TEntity>
     {

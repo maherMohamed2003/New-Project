@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Application.Exceptions
+﻿namespace Application.Exceptions
 {
     public class ValidationExceptions : Exception
     {

@@ -1,6 +1,4 @@
-using Microsoft.EntityFrameworkCore;
-
-namespace WebApplication1.Application.Common.Abstractions
+namespace Application.Common.Abstractions
 {
     public class PaginatedList<T>(List<T> items, int pageNumber, int count, int pageSize)
     {
