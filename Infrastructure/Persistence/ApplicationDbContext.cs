@@ -1,23 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Fluent.Infrastructure.FluentModel;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Awael_Al_Joudah.Domain.Entities.AuthModules;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace Infrastructure.Persistence
 {
-    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+    public class ApplicationDbContext : DbContext
     {
-        private readonly IHttpContextAccessor _httpContext;
+        public DbSet<User> Users { get; set; }
 
-        public ApplicationDbContext(
-            DbContextOptions<ApplicationDbContext> dbContextOptions,
-            IHttpContextAccessor httpContextAccessor) : base(dbContextOptions)
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            _httpContext = httpContextAccessor;
-        }
+            base.OnConfiguring(optionsBuilder);
+            var config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
+            var connectionString = config.GetSection("constr").Value;
+            optionsBuilder.UseSqlServer(connectionString);
 
+        }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+        }
     }
 }
