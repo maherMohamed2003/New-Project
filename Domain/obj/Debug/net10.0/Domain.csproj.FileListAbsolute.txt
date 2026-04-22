@@ -1,0 +1,12 @@
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+A:\Dr Code\New Project\WebApplication1\Domain\bin\Debug\net10.0\Domain.deps.json
+A:\Dr Code\New Project\WebApplication1\Domain\bin\Debug\net10.0\Domain.dll
+A:\Dr Code\New Project\WebApplication1\Domain\bin\Debug\net10.0\Domain.pdb
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\Domain.dll
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\refint\Domain.dll
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\Domain.pdb
+A:\Dr Code\New Project\WebApplication1\Domain\obj\Debug\net10.0\ref\Domain.dll
