@@ -1,0 +1,16 @@
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.sourcelink.json
+A:\Dr Code\New Project\WebApplication1\Application\bin\Debug\net9.0\Application.deps.json
+A:\Dr Code\New Project\WebApplication1\Application\bin\Debug\net9.0\Application.dll
+A:\Dr Code\New Project\WebApplication1\Application\bin\Debug\net9.0\Application.pdb
+A:\Dr Code\New Project\WebApplication1\Application\bin\Debug\net9.0\Domain.dll
+A:\Dr Code\New Project\WebApplication1\Application\bin\Debug\net9.0\Domain.pdb
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.dll
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\refint\Application.dll
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\Application.pdb
+A:\Dr Code\New Project\WebApplication1\Application\obj\Debug\net9.0\ref\Application.dll
